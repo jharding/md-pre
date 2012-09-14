@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>{{title}} | premd</title>
+  <title>{{title}} | pre-md</title>
   <style>{{>style}}</style>
 </head>
 
