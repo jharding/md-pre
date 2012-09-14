@@ -1,5 +1,5 @@
 {
-  "name": "mdpre",
+  "name": "md-pre",
   "version": "0.0.0",
   "description": "Utility for quickly previewing rendered Markdown",
   "author": {
@@ -9,7 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jharding/mdpre.git"
+    "url": "https://github.com/jharding/md-pre.git"
+  },
+  "bugs": {
+    "url": "http://github.com/jharding/md-pre/issues"
   },
   "preferGlobal": true,
   "bin": "./index.js",

@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-// mdpre
-// -----
-// * GitHub: https://github.com/jharding/mdpre
+// md-pre
+// ------
+// * GitHub: https://github.com/jharding/md-pre
 // * Copyright (c) 2012 Jake Harding
 // * Licensed under the MIT license.
 
@@ -29,7 +29,7 @@ var optimist = require('optimist')
   .options('v', {
     alias: 'verbose',
     boolean: true,
-    description: 'mdpre will let you know what\'s going on'
+    description: 'md-pre will let you know what\'s going on'
   });
 
 var hogan = require('fs-hogan').set({
