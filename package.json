@@ -22,5 +22,6 @@
     "optimist": "~0.3.4",
     "colors": "~0.6.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["markdown", "preview"]
 }
