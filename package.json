@@ -1,0 +1,23 @@
+{
+  "name": "mdpre",
+  "version": "0.0.0",
+  "description": "Utility for quickly previewing rendered Markdown",
+  "author": {
+    "name": "Jake Harding",
+    "email": "jacob.s.harding@gmail.com",
+    "url": "http://thejakeharding.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jharding/mdpre.git"
+  },
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "dependencies": {
+    "marked": "~0.2.5",
+    "fs-hogan": "~0.0.2",
+    "optimist": "~0.3.4",
+    "colors": "~0.6.0"
+  },
+  "license": "MIT"
+}
