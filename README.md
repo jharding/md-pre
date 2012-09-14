@@ -1,7 +1,7 @@
 md-pre
 -----
 
-> Utility for quickly previewing rendered Markdown.
+`md-pre` is a command line utility for quickly previewing Markdown documents in the browser. `md-pre` will convert your Markdown to HTML, write said HTML to a file located in a temp directory, and then open up that file in your default browser. The CSS used for the rendered Markdown is the same CSS that GitHub uses. 
 
 Installation
 ============
