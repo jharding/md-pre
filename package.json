@@ -1,7 +1,7 @@
 {
   "name": "md-pre",
   "version": "0.0.2",
-  "description": "Utility for quickly previewing rendered Markdown",
+  "description": "Command-line utility for quickly previewing Markdown locally",
   "author": {
     "name": "Jake Harding",
     "email": "jacob.s.harding@gmail.com",
