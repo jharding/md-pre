@@ -17,10 +17,10 @@
   "preferGlobal": true,
   "bin": "./index.js",
   "dependencies": {
-    "marked": "~0.2.5",
-    "fs-hogan": "~0.0.2",
-    "optimist": "~0.3.4",
-    "colors": "~0.6.0"
+    "marked": "~0.2",
+    "fs-hogan": "~0",
+    "optimist": "~0.3",
+    "colors": "~0.6"
   },
   "license": "MIT",
   "keywords": ["markdown", "preview"]
